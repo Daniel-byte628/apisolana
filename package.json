@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.19.5",
+    "@solana/web3.js": "^1.90.0",
+    "bs58": "^5.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "type": "module"
+}
